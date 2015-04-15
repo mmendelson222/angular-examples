@@ -3,4 +3,5 @@ angular-examples
 
 Angular Code Snippets.  Preferably reusable.
 
-Michael
+Michael Mendelson
+Software Architect
